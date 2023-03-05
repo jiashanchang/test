@@ -8,7 +8,15 @@ Test account and password：test@gmail.com / test12345
 
 ## Table of Contents
 
-## Main Features
+* [Main Features](#main-features)
+* [Backend Technique](#backend-technique)
+   - Deployment
+   - Language / Web Framework
+   - Database
+   - Networking
+   - Third Party Library
+
+## Main Features <a name="main-features"></a>
 
 * User authentication with Json Web Token.
 * Allows users to clearly record every expense and gain a better understanding of their spending habits.
@@ -58,4 +66,7 @@ Test account and password：test@gmail.com / test12345
 ## Contact
 
 Jia-shan, Chang
+
+</br>
+
 Email: ivychang1994@gmail.com
