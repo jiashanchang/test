@@ -10,12 +10,15 @@ Test account and password：test@gmail.com / test12345
 
 * [Main Features](#main-features)
 * [Backend Technique](#backend-technique)
-   - Deployment
-   - Language / Web Framework
-   - Database
-   - Networking
-   - Third Party Library
-
+   - [Deployment](#deployment)
+   - [Language / Web Framework](#language)
+   - [Database](#database)
+   - [Networking](#networking)
+   - [Version Control](#version)
+   - [Database Schema](#database)
+* [Frontend Technique](#frontend-technique)
+* API Doc
+* [Contact](#contact)
 ## Main Features <a name="main-features"></a>
 
 * User authentication with Json Web Token.
@@ -23,50 +26,45 @@ Test account and password：test@gmail.com / test12345
 * Enabling users to analyze their fixed and variable expenses and track their money flow.
 * Allowing users to assess their personal financial status, liquidity, ability to obtain long-term funds, ability to generate net cash flow, capital movements, and profitability disclosures.
 
-## Backend Technique
+## Backend Technique <a name="backend-technique"></a>
 
-### Deployment
+### Deployment <a name="deployment"></a>
 
 * Docker
 
-### Language / Web Framework
+### Language / Web Framework <a name="language"></a>
 
 * Node.js / Express.js
 
-### Database
+### Database <a name="database"></a>
 
 * MongoDB / Mongoose
 
-### Networking
+### Networking <a name="networking"></a>
 
 * HTTP & HTTPS
 * Domain Name System (DNS)
 * NGINX
 * SSL (ZeroSSL)
 
-### Version Control
+### Version Control <a name="version"></a>
 
-* Git/GitHub
+* Git / GitHub
 
-### Database Schema
+### Database Schema <a name="database"></a>
 
 ![image](/DBschema.png)
 
-## Frontend Technique
+## Frontend Technique <a name="frontend-technique"></a>
 
 * HTML
 * CSS
 * JavaScript
 * AJAX
+* Third Party Library
+   - chart.js
 
-## Third Party Library
+## Contact <a name="contact"></a>
 
-* chart.js
-
-## Contact
-
-Jia-shan, Chang
-
-</br>
-
-Email: ivychang1994@gmail.com
+* Jia-shan, Chang
+* Email: ivychang1994@gmail.com
