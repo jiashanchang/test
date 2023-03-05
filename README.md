@@ -15,9 +15,9 @@ Test account and password：test@gmail.com / test12345
    - [Database](#database)
    - [Networking](#networking)
    - [Version Control](#version)
-   - [Database Schema](#database)
+* [Database Schema](#database)
 * [Frontend Technique](#frontend-technique)
-* API Doc
+* [API Doc](#api)
 * [Contact](#contact)
 ## Main Features <a name="main-features"></a>
 
@@ -63,6 +63,8 @@ Test account and password：test@gmail.com / test12345
 * AJAX
 * Third Party Library
    - chart.js
+
+## API Doc <a name="api"></a>
 
 ## Contact <a name="contact"></a>
 
