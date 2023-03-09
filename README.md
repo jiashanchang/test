@@ -24,7 +24,6 @@ Test account and password：test@gmail.com / test12345
 
 * User authentication with Json Web Token.
 * Allows users to clearly record every expense and gain a better understanding of their spending habits.
-
 </br>
 
 ![image](/add_record.gif)
@@ -32,7 +31,6 @@ Test account and password：test@gmail.com / test12345
 </br>
 
 * Personalize income and expense tracking with custom categories for improved financial management.
-
 </br>
 
 ![image](/add_category.gif)
@@ -40,7 +38,6 @@ Test account and password：test@gmail.com / test12345
 </br>
 
 * Enabling users to analyze their fixed and variable expenses and track their money flow.
-
 </br>
 
 ![image](/analyze.gif)
@@ -48,7 +45,6 @@ Test account and password：test@gmail.com / test12345
 </br>
 
 * Enable users to evaluate their financial status, liquidity, long-term fund accessibility, cash flow generation, capital shifts, and profitability disclosures.
-
 </br>
 
 ![image](/report.gif)
