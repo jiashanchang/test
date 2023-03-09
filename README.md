@@ -2,7 +2,7 @@
 
 記帳趣 is a powerful expense-tracking website that allows users to gain valuable insights into their spending habits and financial status.
 
-Website URL: <https://accumulate.life/>
+Website URL： <https://accumulate.life/>
 
 Test account and password：test@gmail.com / test12345
 
@@ -70,6 +70,7 @@ Test account and password：test@gmail.com / test12345
 
 ## API Doc <a name="api"></a>
 
+[API doc](https://app.swaggerhub.com/apis-docs/IVYCHANG1994_1/Tracking_Go/1.0.0)
 ## Contact <a name="contact"></a>
 
 * 張嘉珊 Jia-shan, Chang
