@@ -15,6 +15,7 @@ Test account and password：test@gmail.com / test12345
    - [Database](#database)
    - [Networking](#networking)
    - [Version Control](#version)
+* [Architecture](#architecture)
 * [Database Schema](#database)
 * [Frontend Technique](#frontend-technique)
 * [API Doc](#api)
@@ -23,8 +24,9 @@ Test account and password：test@gmail.com / test12345
 
 * User authentication with Json Web Token.
 * Allows users to clearly record every expense and gain a better understanding of their spending habits.
+* Personalize income and expense tracking with custom categories for improved financial management.
 * Enabling users to analyze their fixed and variable expenses and track their money flow.
-* Allowing users to assess their personal financial status, liquidity, ability to obtain long-term funds, ability to generate net cash flow, capital movements, and profitability disclosures.
+* Enable users to evaluate their financial status, liquidity, long-term fund accessibility, cash flow generation, capital shifts, and profitability disclosures.
 
 ## Backend Technique <a name="backend-technique"></a>
 
@@ -51,6 +53,8 @@ Test account and password：test@gmail.com / test12345
 
 * Git / GitHub
 
+### Architecture <a name="architecture"></a>
+
 ### Database Schema <a name="database"></a>
 
 ![image](/DBschema.png)
@@ -68,5 +72,5 @@ Test account and password：test@gmail.com / test12345
 
 ## Contact <a name="contact"></a>
 
-* Jia-shan, Chang
+* 張嘉珊 Jia-shan, Chang
 * Email: ivychang1994@gmail.com
